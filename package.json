@@ -1,0 +1,37 @@
+{
+	"name": "iforodrigez-theme",
+	"displayName": "iforodrigez",
+	"description": "Pitch black UI, Monokai syntax, in three saturation levels.",
+	"version": "1.1.0",
+	"publisher": "kero",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "iforodrigez high",
+				"uiTheme": "vs-dark",
+				"path": "./themes/iforodrigez-high-color-theme.json"
+			},
+			{
+				"label": "iforodrigez medium",
+				"uiTheme": "vs-dark",
+				"path": "./themes/iforodrigez-medium-color-theme.json"
+			},
+			{
+				"label": "iforodrigez low",
+				"uiTheme": "vs-dark",
+				"path": "./themes/iforodrigez-low-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1788726500580,
+		"targetPlatform": "undefined",
+		"size": 33426
+	}
+}
