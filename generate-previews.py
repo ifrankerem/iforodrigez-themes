@@ -141,6 +141,8 @@ body{{background:{c['editor.background']};font-family:'Cascadia Mono NF','Hack',
     open(p, "w").write(doc)
     return p
 
-for variant in ("high", "medium", "low"):
-    src = os.path.join(REPO, "themes", "iforodrigez-%s-color-theme.json" % variant)
-    print(build(src, "iforodrigez %s" % variant))
+# drive the list off the extension manifest so new variants need no edit here
+pkg = json.load(open(os.path.join(REPO, "package.json")))
+for entry in pkg["contributes"]["themes"]:
+    src = os.path.join(REPO, entry["path"].lstrip("./"))
+    print(build(src, entry["label"]))
