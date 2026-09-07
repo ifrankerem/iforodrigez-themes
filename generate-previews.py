@@ -1,8 +1,8 @@
 import json, os, html, glob
 
-REPO = os.path.dirname(os.path.abspath(__file__))
-OUT  = REPO
-os.makedirs(OUT, exist_ok=True)
+REPO   = os.path.dirname(os.path.abspath(__file__))
+VSCODE = os.path.join(REPO, "vscode")   # the VS Code themes are the source of truth
+OUT    = REPO
 
 # (css class, text) — hand-tokenized C++ so the preview uses the theme's real inks
 CODE = [
@@ -142,7 +142,7 @@ body{{background:{c['editor.background']};font-family:'Cascadia Mono NF','Hack',
     return p
 
 # drive the list off the extension manifest so new variants need no edit here
-pkg = json.load(open(os.path.join(REPO, "package.json")))
+pkg = json.load(open(os.path.join(VSCODE, "package.json")))
 for entry in pkg["contributes"]["themes"]:
-    src = os.path.join(REPO, entry["path"].lstrip("./"))
+    src = os.path.join(VSCODE, entry["path"].lstrip("./"))
     print(build(src, entry["label"]))

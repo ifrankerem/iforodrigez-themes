@@ -1,6 +1,6 @@
 # iforodrigez
 
-A dark VS Code theme where the UI chrome gets out of the way: no gradients, no tinted panels, one accent color.
+A dark theme for **VS Code** and **Zed** where the UI chrome gets out of the way: no gradients, no tinted panels, one accent color.
 
 Twelve variants on two axes. **Ink** is how loud the syntax colors are — `low`, `medium`, `high`. **Background** is how dark the surfaces sit — `0` is pitch black, `3` is the gray VS Code ships with. Pick a cell:
 
@@ -11,7 +11,19 @@ Twelve variants on two axes. **Ink** is how loud the syntax colors are — `low`
 | **2** &nbsp;`#151515` | [<img src="images/low2.png" width="240">](images/low2.png) | [<img src="images/medium2.png" width="240">](images/medium2.png) | [<img src="images/high2.png" width="240">](images/high2.png) |
 | **3** &nbsp;`#1F1F1F` | [<img src="images/low3.png" width="240">](images/low3.png) | [<img src="images/medium3.png" width="240">](images/medium3.png) | [<img src="images/high3.png" width="240">](images/high3.png) |
 
-Click any cell for the full-size shot. The two axes are independent — moving along one never touches the other.
+Click any cell for the full-size shot. The two axes are independent — moving along one never touches the other. The screenshots are rendered from the VS Code theme files; the Zed themes carry the same colors.
+
+## Layout
+
+```
+vscode/            VS Code extension — package.json + themes/
+zed/               Zed extension — extension.toml + themes/iforodrigez.json
+images/            previews, shared by both
+generate-previews.py   rebuilds images/ from the VS Code themes
+build-zed-themes.py    rebuilds zed/themes/iforodrigez.json from the VS Code themes
+```
+
+The VS Code theme files are the single source of truth. `build-zed-themes.py` translates them into Zed's theme schema, so a color only ever has to be changed in one place.
 
 ## Ink
 
@@ -38,9 +50,9 @@ Click any cell for the full-size shot. The two axes are independent — moving a
 
 Every neutral surface moves together — editor, sidebar, popups, borders, hover and selection bands — so layer separation survives instead of flattening into one gray. Popups always sit one step above their surroundings, which is what keeps a dropdown reading as a floating thing rather than a hole. Lighter greys move less than dark ones, so line numbers and dimmed text stay readable at every level.
 
-## Install
+## Install — VS Code
 
-Grab the `.vsix` from [Releases](https://github.com/ifrankerem/vscode-themes/releases) and install it:
+Grab the `.vsix` from [Releases](https://github.com/ifrankerem/iforodrigez-themes/releases) and install it:
 
 ```sh
 code --install-extension iforodrigez-theme-1.3.0.vsix
@@ -54,13 +66,41 @@ code --install-extension iforodrigez-theme-1.3.0.vsix --profile <profile-name>
 
 Then `Ctrl+K Ctrl+T` and pick a variant.
 
-## Editing
-
-Colors live in `themes/iforodrigez-<ink><level>-color-theme.json`. Save and run **Developer: Reload Window** to see changes.
-
-`generate-previews.py` rebuilds the screenshots above straight from the theme files, so a color change can be re-rendered rather than re-shot. It reads the variant list out of `package.json`, so adding a variant needs no edit there:
+To build the `.vsix` yourself:
 
 ```sh
+cd vscode && npx @vscode/vsce package
+```
+
+## Install — Zed
+
+Either drop the theme family in as a user theme:
+
+```sh
+mkdir -p ~/.config/zed/themes
+cp zed/themes/iforodrigez.json ~/.config/zed/themes/
+```
+
+…or install the whole `zed/` directory as a dev extension: `zed: install dev extension` from the command palette, then pick the `zed/` folder.
+
+Either way, `cmd-k cmd-t` (`ctrl-k ctrl-t` on Linux) and pick a variant, or set it in `settings.json`:
+
+```json
+{
+  "theme": "iforodrigez high 0"
+}
+```
+
+## Editing
+
+Colors live in `vscode/themes/iforodrigez-<ink><level>-color-theme.json`. Save and run **Developer: Reload Window** to see changes in VS Code.
+
+After a color change, regenerate the Zed themes and the screenshots:
+
+```sh
+python3 build-zed-themes.py
 python3 generate-previews.py
 firefox --headless --screenshot images/low0.png --window-size=1280,800 file://$PWD/iforodrigez-low-0.html
 ```
+
+Both scripts read the variant list out of `vscode/package.json`, so adding a variant needs no edit in either.

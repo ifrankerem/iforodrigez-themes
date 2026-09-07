@@ -1,0 +1,7 @@
+id = "iforodrigez"
+name = "iforodrigez"
+version = "1.3.0"
+schema_version = 1
+authors = ["ifrankerem"]
+description = "Dark Zed theme: three syntax ink levels x four background levels."
+repository = "https://github.com/ifrankerem/iforodrigez-themes"
