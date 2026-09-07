@@ -318,7 +318,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#ffffffff",
+            "color": "#fd971fff",
             "font_style": null,
             "font_weight": null
           },
@@ -434,6 +434,176 @@
           },
           "variant": {
             "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.macro": {
+            "color": "#f92672ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.builtin": {
+            "color": "#a6e22eff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.decorator": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.annotation": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.modifier": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "class": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "interface": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.class": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum.member": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.struct": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.interface": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.parameter": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.event": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.class.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.enum.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.struct.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.interface.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.parameter.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "constant.builtin": {
+            "color": "#ae81ffff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#f8f8f2ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.doc": {
+            "color": "#e6db74ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regexp": {
+            "color": "#e6db74ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.documentation": {
+            "color": "#75715eff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.control": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.preproc": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.call": {
+            "color": "#a6e22eff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
+            "color": "#f92672ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "concept": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.spaceship": {
+            "color": "#ffffffff",
             "font_style": null,
             "font_weight": null
           }
@@ -755,7 +925,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#ffffffff",
+            "color": "#fd971fff",
             "font_style": null,
             "font_weight": null
           },
@@ -871,6 +1041,176 @@
           },
           "variant": {
             "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.macro": {
+            "color": "#f92672ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.builtin": {
+            "color": "#a6e22eff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.decorator": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.annotation": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.modifier": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "class": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "interface": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.class": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum.member": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.struct": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.interface": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.parameter": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.event": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.class.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.enum.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.struct.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.interface.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.parameter.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "constant.builtin": {
+            "color": "#ae81ffff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#f8f8f2ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.doc": {
+            "color": "#e6db74ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regexp": {
+            "color": "#e6db74ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.documentation": {
+            "color": "#75715eff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.control": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.preproc": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.call": {
+            "color": "#a6e22eff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
+            "color": "#f92672ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "concept": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.spaceship": {
+            "color": "#ffffffff",
             "font_style": null,
             "font_weight": null
           }
@@ -1192,7 +1532,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#ffffffff",
+            "color": "#fd971fff",
             "font_style": null,
             "font_weight": null
           },
@@ -1308,6 +1648,176 @@
           },
           "variant": {
             "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.macro": {
+            "color": "#f92672ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.builtin": {
+            "color": "#a6e22eff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.decorator": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.annotation": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.modifier": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "class": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "interface": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.class": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum.member": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.struct": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.interface": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.parameter": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.event": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.class.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.enum.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.struct.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.interface.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.parameter.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "constant.builtin": {
+            "color": "#ae81ffff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#f8f8f2ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.doc": {
+            "color": "#e6db74ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regexp": {
+            "color": "#e6db74ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.documentation": {
+            "color": "#75715eff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.control": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.preproc": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.call": {
+            "color": "#a6e22eff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
+            "color": "#f92672ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "concept": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.spaceship": {
+            "color": "#ffffffff",
             "font_style": null,
             "font_weight": null
           }
@@ -1629,7 +2139,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#ffffffff",
+            "color": "#fd971fff",
             "font_style": null,
             "font_weight": null
           },
@@ -1745,6 +2255,176 @@
           },
           "variant": {
             "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.macro": {
+            "color": "#f92672ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.builtin": {
+            "color": "#a6e22eff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.decorator": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.annotation": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.modifier": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "class": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "interface": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.class": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum.member": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.struct": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.interface": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.parameter": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.event": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.class.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.enum.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.struct.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.interface.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.parameter.definition": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "constant.builtin": {
+            "color": "#ae81ffff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#f8f8f2ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.doc": {
+            "color": "#e6db74ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regexp": {
+            "color": "#e6db74ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.documentation": {
+            "color": "#75715eff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.control": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.preproc": {
+            "color": "#fd971fff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.call": {
+            "color": "#a6e22eff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
+            "color": "#f92672ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "concept": {
+            "color": "#66d9efff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.spaceship": {
+            "color": "#ffffffff",
             "font_style": null,
             "font_weight": null
           }
@@ -2066,7 +2746,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#d8d8d8ff",
+            "color": "#e4881cff",
             "font_style": null,
             "font_weight": null
           },
@@ -2182,6 +2862,176 @@
           },
           "variant": {
             "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.macro": {
+            "color": "#e02267ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.builtin": {
+            "color": "#93c430ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.decorator": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.annotation": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.modifier": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "class": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "interface": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.class": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum.member": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.struct": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.interface": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.parameter": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.event": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.class.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.enum.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.struct.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.interface.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.parameter.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "constant.builtin": {
+            "color": "#9a6befff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#e5e5d4ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.doc": {
+            "color": "#d3c864ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regexp": {
+            "color": "#d3c864ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.documentation": {
+            "color": "#676457ff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.control": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.preproc": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.call": {
+            "color": "#93c430ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
+            "color": "#e02267ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "concept": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.spaceship": {
+            "color": "#d8d8d8ff",
             "font_style": null,
             "font_weight": null
           }
@@ -2503,7 +3353,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#d8d8d8ff",
+            "color": "#e4881cff",
             "font_style": null,
             "font_weight": null
           },
@@ -2619,6 +3469,176 @@
           },
           "variant": {
             "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.macro": {
+            "color": "#e02267ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.builtin": {
+            "color": "#93c430ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.decorator": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.annotation": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.modifier": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "class": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "interface": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.class": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum.member": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.struct": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.interface": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.parameter": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.event": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.class.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.enum.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.struct.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.interface.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.parameter.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "constant.builtin": {
+            "color": "#9a6befff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#e5e5d4ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.doc": {
+            "color": "#d3c864ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regexp": {
+            "color": "#d3c864ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.documentation": {
+            "color": "#676457ff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.control": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.preproc": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.call": {
+            "color": "#93c430ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
+            "color": "#e02267ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "concept": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.spaceship": {
+            "color": "#d8d8d8ff",
             "font_style": null,
             "font_weight": null
           }
@@ -2940,7 +3960,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#d8d8d8ff",
+            "color": "#e4881cff",
             "font_style": null,
             "font_weight": null
           },
@@ -3056,6 +4076,176 @@
           },
           "variant": {
             "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.macro": {
+            "color": "#e02267ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.builtin": {
+            "color": "#93c430ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.decorator": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.annotation": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.modifier": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "class": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "interface": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.class": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum.member": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.struct": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.interface": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.parameter": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.event": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.class.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.enum.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.struct.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.interface.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.parameter.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "constant.builtin": {
+            "color": "#9a6befff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#e5e5d4ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.doc": {
+            "color": "#d3c864ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regexp": {
+            "color": "#d3c864ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.documentation": {
+            "color": "#676457ff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.control": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.preproc": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.call": {
+            "color": "#93c430ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
+            "color": "#e02267ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "concept": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.spaceship": {
+            "color": "#d8d8d8ff",
             "font_style": null,
             "font_weight": null
           }
@@ -3377,7 +4567,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#d8d8d8ff",
+            "color": "#e4881cff",
             "font_style": null,
             "font_weight": null
           },
@@ -3493,6 +4683,176 @@
           },
           "variant": {
             "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.macro": {
+            "color": "#e02267ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.builtin": {
+            "color": "#93c430ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.decorator": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.annotation": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.modifier": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "class": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "interface": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.class": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum.member": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.struct": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.interface": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.parameter": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.event": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.class.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.enum.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.struct.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.interface.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.parameter.definition": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "constant.builtin": {
+            "color": "#9a6befff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#e5e5d4ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.doc": {
+            "color": "#d3c864ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regexp": {
+            "color": "#d3c864ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.documentation": {
+            "color": "#676457ff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.control": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.preproc": {
+            "color": "#e4881cff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.call": {
+            "color": "#93c430ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
+            "color": "#e02267ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "concept": {
+            "color": "#58c6dbff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.spaceship": {
+            "color": "#d8d8d8ff",
             "font_style": null,
             "font_weight": null
           }
@@ -3814,7 +5174,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#c7c7c7ff",
+            "color": "#c57c27ff",
             "font_style": null,
             "font_weight": null
           },
@@ -3930,6 +5290,176 @@
           },
           "variant": {
             "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.macro": {
+            "color": "#c42a62ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.builtin": {
+            "color": "#84ab37ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.decorator": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.annotation": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.modifier": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "class": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "interface": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.class": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum.member": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.struct": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.interface": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.parameter": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.event": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.class.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.enum.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.struct.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.interface.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.parameter.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "constant.builtin": {
+            "color": "#8d5ee0ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#d6d6c1ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.doc": {
+            "color": "#c4ba5bff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regexp": {
+            "color": "#c4ba5bff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.documentation": {
+            "color": "#5e5c51ff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.control": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.preproc": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.call": {
+            "color": "#84ab37ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
+            "color": "#c42a62ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "concept": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.spaceship": {
+            "color": "#c7c7c7ff",
             "font_style": null,
             "font_weight": null
           }
@@ -4251,7 +5781,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#c7c7c7ff",
+            "color": "#c57c27ff",
             "font_style": null,
             "font_weight": null
           },
@@ -4367,6 +5897,176 @@
           },
           "variant": {
             "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.macro": {
+            "color": "#c42a62ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.builtin": {
+            "color": "#84ab37ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.decorator": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.annotation": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.modifier": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "class": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "interface": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.class": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum.member": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.struct": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.interface": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.parameter": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.event": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.class.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.enum.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.struct.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.interface.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.parameter.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "constant.builtin": {
+            "color": "#8d5ee0ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#d6d6c1ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.doc": {
+            "color": "#c4ba5bff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regexp": {
+            "color": "#c4ba5bff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.documentation": {
+            "color": "#5e5c51ff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.control": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.preproc": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.call": {
+            "color": "#84ab37ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
+            "color": "#c42a62ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "concept": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.spaceship": {
+            "color": "#c7c7c7ff",
             "font_style": null,
             "font_weight": null
           }
@@ -4688,7 +6388,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#c7c7c7ff",
+            "color": "#c57c27ff",
             "font_style": null,
             "font_weight": null
           },
@@ -4804,6 +6504,176 @@
           },
           "variant": {
             "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.macro": {
+            "color": "#c42a62ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.builtin": {
+            "color": "#84ab37ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.decorator": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.annotation": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.modifier": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "class": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "interface": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.class": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum.member": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.struct": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.interface": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.parameter": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.event": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.class.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.enum.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.struct.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.interface.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.parameter.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "constant.builtin": {
+            "color": "#8d5ee0ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#d6d6c1ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.doc": {
+            "color": "#c4ba5bff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regexp": {
+            "color": "#c4ba5bff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.documentation": {
+            "color": "#5e5c51ff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.control": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.preproc": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.call": {
+            "color": "#84ab37ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
+            "color": "#c42a62ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "concept": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.spaceship": {
+            "color": "#c7c7c7ff",
             "font_style": null,
             "font_weight": null
           }
@@ -5125,7 +6995,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#c7c7c7ff",
+            "color": "#c57c27ff",
             "font_style": null,
             "font_weight": null
           },
@@ -5241,6 +7111,176 @@
           },
           "variant": {
             "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.macro": {
+            "color": "#c42a62ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.builtin": {
+            "color": "#84ab37ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.decorator": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.annotation": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.modifier": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "module": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "class": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "interface": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.class": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.enum.member": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.struct": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.interface": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.parameter": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.event": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.class.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.enum.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.struct.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.interface.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "type.parameter.definition": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "constant.builtin": {
+            "color": "#8d5ee0ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#d6d6c1ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.doc": {
+            "color": "#c4ba5bff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regexp": {
+            "color": "#c4ba5bff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.documentation": {
+            "color": "#5e5c51ff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.control": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.preproc": {
+            "color": "#c57c27ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.call": {
+            "color": "#84ab37ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
+            "color": "#c42a62ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "concept": {
+            "color": "#4fb8ccff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator.spaceship": {
+            "color": "#c7c7c7ff",
             "font_style": null,
             "font_weight": null
           }

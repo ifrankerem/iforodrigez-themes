@@ -222,7 +222,7 @@ def style(theme):
         "number":                   hi(num),
         "operator":                 hi(op),
         "predictive":               hi(comment, font_style="italic"),
-        "preproc":                  hi(op),
+        "preproc":                  hi(kw),
         "primary":                  hi(fg),
         "property":                 hi(sem["property"]),
         "punctuation":              hi(op),
@@ -246,6 +246,50 @@ def style(theme):
         "variable.parameter":       hi(sem["parameter"]),
         "variable.special":         hi(mc),
         "variant":                  hi(ty),
+
+        # Zed resolves LSP semantic tokens through its own style names (see
+        # `zed: show default semantic token rules`). Without these keys a token
+        # falls through to a broader style and stops matching VS Code — a macro
+        # would land on `function` and come out green instead of pink.
+        "function.macro":           hi(mc),
+        "function.builtin":         hi(fn),
+        "function.decorator":       hi(ty),
+        "function.annotation":      hi(ty),
+        "keyword.modifier":         hi(kw),
+        "module":                   hi(ty),
+        "class":                    hi(ty),
+        "struct":                   hi(ty),
+        "interface":                hi(ty),
+        "type.class":               hi(ty),
+        "type.enum":                hi(ty),
+        "type.enum.member":         hi(ty),
+        "type.struct":              hi(ty),
+        "type.interface":           hi(ty),
+        "type.parameter":           hi(ty),
+        "type.event":               hi(ty),
+        "type.definition":              hi(ty, font_weight=700),
+        "type.class.definition":        hi(ty, font_weight=700),
+        "type.enum.definition":         hi(ty, font_weight=700),
+        "type.struct.definition":       hi(ty, font_weight=700),
+        "type.interface.definition":    hi(ty, font_weight=700),
+        "type.parameter.definition":    hi(ty, font_weight=700),
+        "constant.builtin":         hi(num),
+        "variable.builtin":         hi(fg),
+        "string.doc":               hi(st),
+        "string.regexp":            hi(st),
+        "comment.documentation":    hi(comment, font_style="italic"),
+
+        # Tree-sitter capture names the C/C++ grammars emit. `type.builtin` is
+        # the one that matters: int, char, short, long are `storage.type` in the
+        # VS Code grammar, which the theme paints with the keyword color, not
+        # the type color.
+        "type.builtin":             hi(kw),
+        "keyword.control":          hi(kw),
+        "keyword.preproc":          hi(kw),
+        "function.call":            hi(fn),
+        "function.special":         hi(mc),
+        "concept":                  hi(ty),
+        "operator.spaceship":       hi(op),
     }
     return s
 
